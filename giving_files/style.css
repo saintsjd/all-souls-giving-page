@@ -1,0 +1,20 @@
+/*
+Theme Name: Moses
+Theme URI: http://churchthemer.com
+Description: Themes for Churches
+Version: 1.8.1
+Author: Church Themer
+Author URI: http://churchthemer.com
+Tags: church, basic, moses
+*/
+
+@import "css/reset.css";
+
+
+
+/* import the theme css *after* the base_styles */
+@import "css/base_styles.css";
+
+
+/* font stylesheet */
+@import "css/museosans/stylesheet.css";
